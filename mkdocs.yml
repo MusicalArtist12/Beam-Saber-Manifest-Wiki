@@ -1,0 +1,14 @@
+site_name: "Beam Saber: Manifest"
+theme:
+  name: material
+  sticky_navigation: False
+plugins:
+  - search
+  - ezlinks
+  - tags
+
+markdown_extensions:
+  - markdown.extensions.nl2br
+
+hooks:
+  - hooks.py
