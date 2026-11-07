@@ -1,4 +1,5 @@
 site_name: "Beam Saber: Manifest"
+site_url: https://musicalartist12.github.io/Beam-Saber-Manifest-Wiki/
 theme:
   name: material
   sticky_navigation: False
